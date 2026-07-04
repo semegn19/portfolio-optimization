@@ -5,3 +5,7 @@ scikit-learn
 scipy
 seaborn
 yfinance
+statsmodels 
+pmdarima 
+tensorflow 
+jupyter
