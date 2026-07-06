@@ -56,7 +56,6 @@ GMF-Time-Series-Forecasting/
 ├── notebooks/
 │   ├── eda.ipynb
 │   ├── modeling.ipynb
-│   ├── forecasting.ipynb
 │   ├── portfolio.ipynb
 │   └── backtesting.ipynb
 │
